@@ -1,1 +1,1 @@
-# hackerrank-c-soution
+# hackerrank-c-Solution
